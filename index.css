@@ -38,3 +38,43 @@ article {
   color: blueviolet;
   font-size: 30px;
 }
+* {
+  padding: 6px;
+  margin: 6px;
+}
+body {
+background-color: gainsboro;
+}
+.border-main {
+border-top-style: solid;
+  border-top-color: blueviolet;
+border-top-width: 2px;
+margin-bottom: 10px;
+}
+mark {
+background-color: rgba(43, 67, 226, 0.568);
+}
+.subtitle {
+  color: darkmagenta;
+  font-style: italic;
+}
+button {
+  display: block;
+  margin: 10px auto;
+  width: 60%;
+  padding: 10px 0;
+  border-radius: 10px;
+  background-color: #AF4CAD; /* Green */
+  color: rgb(28, 27, 28); /* Text color */
+}
+article {
+  width: 50%;
+  background-color: whitesmoke;
+  border-radius: 8px;
+  margin-bottom: 15px;
+  padding: 10px 0;
+}
+.price {
+  color: blueviolet;
+  font-size: 30px;
+}
